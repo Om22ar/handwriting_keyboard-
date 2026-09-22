@@ -1,0 +1,6 @@
+{
+  "name": "Handwriting Keyboard",
+  "description": "A production-ready Android handwriting IME that recognizes handwritten characters one-by-one without automatic spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
